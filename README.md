@@ -2,7 +2,7 @@
 
 This project is intended to provide a basic implementation of the reduced basis algorithms presented in the paper "A Reduced Basis Method for Fractional Diffusion Operators I" by Tobias Danczul and Joachim Schöberl. The main objective of this paper is the efficient numerical approximation of interpolation norms and fractional differential operators, such as the spectral fractional Laplacian.  
 
-The repository contains two Jupyter Notebook that walk the reader through the code:
+The repository contains two Jupyter Notebooks that walk the reader through the code:
 
 - FractionalNorm.ipynb: The file includes
   - a basic implementation of the reduced basis interpolation norm,
